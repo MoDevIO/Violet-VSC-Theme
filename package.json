@@ -1,0 +1,21 @@
+{
+  "name": "violet-VSC-theme",
+  "displayName": "Violet Theme",
+  "description": "A Theme for VSC in a violet style",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Violet Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Violet-color-theme.json"
+      }
+    ]
+  }
+}
